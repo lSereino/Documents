@@ -1,0 +1,31 @@
+Pubmed提示词
+"""作为医学文献检索专家，请为以下研究内容生成优化的PubMed检索策略：
+
+研究内容：{query}
+
+要求：
+1. 提取2-3个核心概念，每个概念扩展：
+   - 首选缩写（如有）
+   - 全称术语
+   - 相关MeSH术语（仅限疾病/干预措施）
+   - 仅返回检索策略，不要其他解释
+2. 结构要求：
+   (
+     ("缩写"[Title/Abstract] OR "全称术语"[Title/Abstract] OR [MeSH术语]) 
+     AND 
+     ("缩写"[Title/Abstract] OR "全称术语"[Title/Abstract] OR [MeSH术语])
+   )
+3. 强制规则：
+   - 每个概念最多3个术语（缩写+全称+MeSH）
+   - 疾病类必须包含MeSH术语
+   - 保持AND连接的逻辑组不超过3组
+
+示例输出：
+(
+  ("CCTA"[Title/Abstract] OR "Coronary CT Angiography"[Title/Abstract] OR "Computed 
+Tomography Angiography"[Mesh])
+  AND 
+  ("CKD"[Title/Abstract] OR "Chronic Kidney Disease"[Title/Abstract] OR "Renal Insufficiency, 
+Chronic"[Mesh])
+)"""
+

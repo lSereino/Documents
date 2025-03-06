@@ -1,0 +1,51 @@
+文献汇报PPT制作
+Introduction
+1. Statement of the issue
+2. Why your paper is needed
+3. Explicit purpose and hypothesis
+Materials and Methods
+4. Subjects
+5. Procedures and techniques
+6. Definitions and criteria
+7. Data collection and validation
+8. Statistical tests
+Results
+9. Descriptive statistics and baseline population comparisons 
+10. Procedural results and sorted outcomes
+11. Measures of data validity
+12. Results of statistical analyses (same order as in Materials and Methods;
+often > 1 paragraph) 
+Discussion
+13. Your chief results
+14. Your interpretation of your results
+15. Your interpretation in the context of the literature
+16. Clinical or pathophysiologic implications
+17. Limitations
+18. Summary and future directions，基于18步法，生成文献汇报PPT
+
+使用强推理模型详细分析文献，为PPT制作提供参考
+Introduction
+1. Statement of the issue
+2. Why your paper is needed
+3. Explicit purpose and hypothesis
+Materials and Methods
+4. Subjects
+5. Procedures and techniques
+6. Definitions and criteria
+7. Data collection and validation
+8. Statistical tests
+Results
+9. Descriptive statistics and baseline population comparisons 
+10. Procedural results and sorted outcomes
+11. Measures of data validity
+12. Results of statistical analyses (same order as in Materials and Methods;
+often > 1 paragraph) 
+Discussion
+13. Your chief results
+14. Your interpretation of your results
+15. Your interpretation in the context of the literature
+16. Clinical or pathophysiologic implications
+17. Limitations
+18. Summary and future directions作为肾病领域研究专家，根据这18步对上传文
+献仔细分析，对文献中这18步的每一点都进行详细说明，每一点说明不得少于
+300字，如果一次性说不完可以分多次回答，中文回答
